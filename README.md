@@ -1,0 +1,2 @@
+# OPCUA-MQTT-Integrated-Clientt
+通过OPCUA协议控制不同PLC和机器人进行实时通信以及使用MQTT协议与鸿蒙系统进行交互
