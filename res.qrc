@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../R-C.jpg</file>
+        <file>../../bg.jpg</file>
+        <file>../../wbg.jpg</file>
+        <file>tubiao.qml</file>
+        <file>../../view.jpg</file>
+        <file>../../view(1).jpg</file>
+        <file>../../pki110685(1).jpg</file>
+    </qresource>
+</RCC>
